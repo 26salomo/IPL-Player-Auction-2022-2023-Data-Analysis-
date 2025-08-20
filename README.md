@@ -49,7 +49,9 @@ This analysis explores trends in **player cost, type distribution, retention, an
 ---
 
 ## 📂 Repository Structure
-
+├── IPL data analysis.ipynb # Main Jupyter Notebook with analysis & visualization
+├── ipl_2023_dataset.csv
+├── README.md # Project documentation (this file)
 
 ---
 
